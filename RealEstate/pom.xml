@@ -32,6 +32,6 @@
 		    <appName>realestate-code</appName>
 		  </configuration>
 	  </plugin>
-    </plugins>
+    </plugins>      
   </build>
 </project>
